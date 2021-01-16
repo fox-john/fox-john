@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/dragoon1010?template=classic&activity=1&followup=1&isocalendar=1&languages=1&isocalendar.duration=full-year&activity.limit=5&activity.days=365&activity.filter=all&config.timezone=Europe%2FParis&config.animated=true)
+![Metrics](https://metrics.lecoq.io/dragoon1010?template=classic&activity=1&followup=1&isocalendar=1&languages=1&stars=1&isocalendar.duration=full-year&stars.limit=10&activity.limit=10&activity.days=365&activity.filter=all&config.timezone=Europe%2FParis&config.animated=true)
