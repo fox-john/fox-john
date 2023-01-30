@@ -14,5 +14,5 @@ jobs:
         with:
             template: repository
             user: fox-john
-            repo: metrics
+            repo: fox-john
             token: ${{ secrets.METRICS_TOKEN }}
